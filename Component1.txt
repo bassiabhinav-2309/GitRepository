@@ -3,3 +3,5 @@ kdjsfbjksdafbasjk fjkas dfjkas dasj
 This is a tset for branching and merging
 
 This is child 1 component 1
+
+This is child 1 from component 1 handed over by the team leader
