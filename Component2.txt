@@ -1,0 +1,5 @@
+kjdasdao
+
+This is child 2 component 2
+
+This is child 2 component 2 handed over by child 1
