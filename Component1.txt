@@ -7,7 +7,12 @@ This is child 1 component 1
 This is child 1 from component 1 handed over by the team leader
 
 
+This is child 2 handled by the team leader
+This is child 2 handled by the team leader
+
+
+
 This is child 1 handled by the master
 This is child 1 handled by the master
-This is child 1 handled by the master
-This is child 1 handled by the master
+
+
