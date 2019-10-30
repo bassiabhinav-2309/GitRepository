@@ -24,3 +24,5 @@ This is child 1 handled by the master
 
 This is git bash child 1
 
+This is git bash child 2
+
