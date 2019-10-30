@@ -22,3 +22,5 @@ This is child 2 handled by the team leader
 This is child 1 handled by the master
 This is child 1 handled by the master
 
+This is git bash child 1
+
