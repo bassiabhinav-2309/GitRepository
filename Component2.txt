@@ -1,1 +1,3 @@
 kjdasdao
+
+This is child 2 component 2
